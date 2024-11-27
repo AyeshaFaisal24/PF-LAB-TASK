@@ -1,0 +1,3 @@
+101,C Programming,Dennis Ritchie,50,29.99
+102,Data Structures,Robert Lafore,30,35.99
+89,Under the tree,Poe,12,123.00
